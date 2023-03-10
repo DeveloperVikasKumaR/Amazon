@@ -1,0 +1,24 @@
+#sub-menu-link:hover,#sub-menu-link-1:hover,#sub-menu-img:hover
+{
+    border: 1px solid white;   
+}
+#lang-link:hover
+{
+    text-decoration: underline white;
+}
+#footer_block_3-list:hover
+{
+    text-decoration: underline white;
+}
+#footer_block_3-1-link:hover
+{
+    text-decoration: underline white;
+}
+.list_1>li:hover,.list_2>li:hover,.list_3>li:hover,.list_4>li:hover
+{
+    text-decoration: underline;
+}
+#all:hover
+{
+    background-color: #e5e4e4;
+}

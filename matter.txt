@@ -1,0 +1,10 @@
+<span class="nav-amazon-icon">
+                    <img src="image/amazon_logo.png" alt="">
+                </span>
+                <span class="nav-link-two">
+                    <span><img src="image/loc.png" alt=""></span>
+                    <span>
+                        <p1>Hello <br><b>Select your address</b></p1>
+                    </span>
+                    
+                </span>

@@ -1,0 +1,157 @@
+
+*
+{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.amaxon-icon
+{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 144px;
+    height: 54px;
+    margin-bottom: 10px;
+}
+#bold-text
+{
+    font-size: 13px;
+    color: #111111;
+    font-weight: bold;
+}
+.detail-box
+{
+    border: 1px solid #ddd;
+    width: 313px;
+    height: 564px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 14px 18px;
+    border-radius: 5px;
+}
+#input-placeholder-username
+{
+    width: 297px;
+    height: 25px;
+    border: 1px solid #adb1b8;
+    border-radius: 3px;
+    padding: 3px 7px;
+    margin-top: 4px;
+    margin-bottom: 12px;
+}
+.detail-box>h1
+{
+    font-size: 28px;
+    font-weight: lighter;
+    margin-bottom: -6px;
+    
+}
+#mobile-code
+{
+    width: 72px;
+    height: 29px;
+    border: 1px solid #adb1b8;
+    background: #e7e9ec;
+    border-radius: 3px;
+    margin-bottom: 19px;
+    margin-top: 12px;
+}
+#number-placeholder
+{
+    width: 210px;
+    height: 22px;
+    padding: 3px 7px;
+    border: 1px solid #adb1b8;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+#password-placeholder
+{
+    height: 23px;
+    width: 297px;
+    border: 1px solid #adb1b8;
+    border-radius: 3px;
+    padding: 3px 7px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+}
+.detail-box>h4
+{
+    font-size: 12px;
+    color: #2b2b2b;
+    margin-bottom: 5px;
+    font-weight: lighter;
+}
+.detail-box>p5
+{
+    font-size: 13px;
+    color: #111111;
+    font-weight: 300;
+    letter-spacing: .2px;
+}
+.detail-box>p6
+{
+    font-size: 13px;
+    color: #111111;
+}
+.detail-box>p7
+{
+    font-size: 13px;
+    color: #111111;
+}
+.detail-box>p8
+{
+    font-size: 12px;
+    color: #111111;
+}
+#continue-button
+{
+     width: 312px;
+    height: 32px;
+    border-radius: 3px;
+    border: 1px solid rgb(141, 86, 47);
+    color: black;
+    font-weight: 100;
+    background-color: #ffca68;
+    margin-bottom: 51px;
+    padding: 3px 7px;
+    margin-top: 23px;
+}
+#link
+{
+    text-decoration: none;
+    color: #0066c6;
+}
+#link:hover
+{
+    color: orange;
+}
+footer
+{
+    margin-top: 10px;
+    margin-bottom: ;
+    font-size: 11px;
+    line-height: 25px;
+}
+section>p1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 11px; 
+}
+section>p2
+{
+    display: flex;
+    justify-content: center;
+}
+#footer-l1,#footer-l2,#footer-l3
+{
+    margin-right: 25px;
+    color: #0066c6;
+    text-decoration: none;
+}
+#footer-l1:hover,#footer-l2:hover,#footer-l3:hover
+{
+    color:orange;
+}
